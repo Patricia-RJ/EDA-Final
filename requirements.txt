@@ -1,12 +1,7 @@
 streamlit
-matplotlib
 pandas
-sidetable
-seaborn
-geopandas
 numpy
-plotly.express 
-pathlib 
-XGBoost
-sklearn
-Power BI
+matplotlib
+seaborn
+plotly
+scikit-learn
