@@ -251,6 +251,9 @@ El dashboard permite filtrar por variables como tiempo, ubicación o tipo de pro
 Archivo:  
 `dashboard/streamlit/dashboard.py`
 
+Enlace web del dashboard: 
+https://eda-final-l2srvjde5chtrlz2syx4nl.streamlit.app/ 
+
 Se ha desarrollado una aplicación interactiva en Streamlit que permite:
 
 - Visualizar métricas clave en tiempo real
